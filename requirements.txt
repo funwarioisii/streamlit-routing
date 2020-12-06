@@ -1,0 +1,4 @@
+black
+streamlit
+sympy
+scipy
